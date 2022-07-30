@@ -1,4 +1,5 @@
 ### Hi there 👋
+UTSA Grad 2022 
 - 🔭 I’m currently working on Scrimba's Frontend Career Path! Working hard to improve my javascript skills, and the course has been great.
 - 🌱 Actively learning more about contributing to open source projects
 - 🤔 I’m looking for help with understanding github
