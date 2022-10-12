@@ -1,8 +1,8 @@
 ### Hi there 👋
 UTSA Grad 2022 
-- 🔭 I’m currently working on Scrimba's Frontend Career Path! Working hard to improve my javascript skills, and the course has been great.
-- 🌱 Actively learning more about contributing to open source projects
-- 🤔 I’m looking for help with understanding github
+- 🔭 As a post gradute I am working to improve my frontend web development skills.
+- 🌱 Actively learning more about contributing to open source projects + ReactJS
+- 📫 How to reach me: https://www.linkedin.com/in/ryan-harris-134810228/
 
 More loading soon...
 
