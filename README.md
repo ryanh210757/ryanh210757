@@ -1,7 +1,7 @@
 ### Hi there 👋
 2022 UTSA Graduate
-- 🔭 As a post gradute I am working to improve my frontend web development skills.
-- 🌱 Actively learning more about contributing to open source projects + ReactJS
+- 🔭 Focusing on JavaScript and web development skills.
+- 🌱 Exploring Redux
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-harris-134810228/
 
 More loading soon...
