@@ -1,10 +1,7 @@
 ### Hi there 👋
 2022 UTSA Graduate
-- 🔭 Focusing on JavaScript and web development skills.
-- 🌱 Exploring ReactJS
+- 🔭 JavaScript developer
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-harris-134810228/
-
-More loading soon...
 
 <!--
 **ryanh210757/ryanh210757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
