@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Full Stack developer
+- 🔭 Full stack developer
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-harris-134810228/
 
 <!--
