@@ -1,6 +1,6 @@
 ### Hi there 👋
-2022 UTSA Graduate
-- 🔭 JavaScript developer
+
+- 🔭 Full Stack developer
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-harris-134810228/
 
 <!--
